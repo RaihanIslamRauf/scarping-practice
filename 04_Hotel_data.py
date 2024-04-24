@@ -1,3 +1,5 @@
+#when we run this code it stops after certain time because it was unable to find the hotel elements like price,currency,properties on certain date ..
+#this was the problem of this code
 import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
