@@ -1,3 +1,4 @@
+# here we scraped bus names, departure time, arrival time, available seat and ticket prices
 import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
